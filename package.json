@@ -1,7 +1,7 @@
 {
-  "name": "test",
+  "name": "class",
+  "privae": true,
   "version": "1.0.0",
-  "main": "index.js",
   "license": "MIT",
   "scripts": {
     "start": "ts-node index.ts"
